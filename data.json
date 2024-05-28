@@ -1,0 +1,125 @@
+[
+    {
+        "id": 4112,
+        "answers": [
+            {
+                "id": 45540,
+                "question": {
+                    "id": 982,
+                    "file": {
+                        "id": 3027,
+                        "path": "files/3c34af1de3b5421981008e69b0945273/PXL_20220922_140207202.jpg",
+                        "file": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&psig=AOvVaw0TJKaKkLTmwoACatMpplA_&ust=1717005105405000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiPgM70sIYDFQAAAAAdAAAAABAE",
+                        "hash": "829cb596ff4fda85e71d726dbcedc4cf",
+                        "created_at": "2024-04-16T16:18:42.389959Z",
+                        "updated_at": "2024-04-16T16:18:42.389977Z"
+                    },
+                    "question_type": "validation",
+                    "answer": "answer \u003E= (4 - 1) and answer \u003C= (4 + 1)",
+                    "total_successful_answers": 153,
+                    "total_served_times": 237,
+                    "group": "group_one",
+                    "extra": {
+                        "options_order": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7",
+                            "8",
+                            "9",
+                            "10"
+                        ]
+                    },
+                    "created_at": "2024-04-16T16:18:43.374725Z",
+                    "updated_at": "2024-04-30T13:52:24.275570Z",
+                    "question": "Which skin tone would you assign to the person in the photo?",
+                    "max_width_of_file_widget": 600,
+                    "options": {
+                        "1": "#f6ede4",
+                        "2": "#f3e7db",
+                        "3": "#f7ead0",
+                        "4": "#eadaba",
+                        "5": "#d7bd96",
+                        "6": "#a07e56",
+                        "7": "#825c43",
+                        "8": "#604134",
+                        "9": "#3a312a",
+                        "10": "#292420"
+                    },
+                    "playback_type": "no_limit",
+                    "shuffling_type": "no_shuffling",
+                    "options_type": "single",
+                    "options_direction": "horizontal"
+                },
+                "answer": [
+                    "3"
+                ],
+                "status": "valid",
+                "created_at": "2024-04-19T13:00:38.402559Z",
+                "updated_at": "2024-04-19T13:00:38.402580Z"
+            },
+            {
+                "id": 45541,
+                "question": {
+                    "id": 961,
+                    "file": {
+                        "id": 3018,
+                        "path": "files/3c34af1de3b5421981008e69b0945273/000344_f35.png",
+                        "file": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stylecraze.com%2Farticles%2Fmost-beautiful-flowers-in-the-world%2F&psig=AOvVaw0TJKaKkLTmwoACatMpplA_&ust=1717005105405000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiPgM70sIYDFQAAAAAdAAAAABAJ",
+                        "hash": "f117c824f0c3b7d857771929629cd411",
+                        "created_at": "2024-04-16T16:18:42.148171Z",
+                        "updated_at": "2024-04-16T16:18:42.148188Z"
+                    },
+                    "question_type": "testing",
+                    "answer": null,
+                    "total_successful_answers": 61,
+                    "total_served_times": 95,
+                    "group": "group_one",
+                    "extra": {
+                        "options_order": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7",
+                            "8",
+                            "9",
+                            "10"
+                        ]
+                    },
+                    "created_at": "2024-04-16T16:18:43.318882Z",
+                    "updated_at": "2024-04-19T13:56:31.989863Z",
+                    "question": "Which skin tone would you assign to the person in the photo?",
+                    "max_width_of_file_widget": 600,
+                    "options": {
+                        "1": "#f6ede4",
+                        "2": "#f3e7db",
+                        "3": "#f7ead0",
+                        "4": "#eadaba",
+                        "5": "#d7bd96",
+                        "6": "#a07e56",
+                        "7": "#825c43",
+                        "8": "#604134",
+                        "9": "#3a312a",
+                        "10": "#292420"
+                    },
+                    "playback_type": "no_limit",
+                    "shuffling_type": "no_shuffling",
+                    "options_type": "single",
+                    "options_direction": "horizontal"
+                },
+                "answer": [
+                    "9"
+                ],
+                "status": "unknown",
+                "created_at": "2024-04-19T13:00:38.420709Z",
+                "updated_at": "2024-04-19T13:00:38.420728Z"
+            }
+        ]
+    }
+]
